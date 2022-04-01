@@ -89,7 +89,7 @@
     5) Посадка в точке старта
 
 
-#### День № 5 (01.04.22)
+#### [День № 5](https://github.com/lazarevaak/Blindgarden_NTO/blob/main/blindgarden_day5-FINAL-RAB.py) (01.04.22)
 
     (Работа над 3-им заданием)
 
