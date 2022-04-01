@@ -37,16 +37,15 @@
 
 ### Программная часть:
 
-#### День № 1 (28.03.22)
+#### [День № 1](https://github.com/lazarevaak/Blindgarden_NTO/blob/main/blindgarden_day1.py) (28.03.22)
 
         1) Взлет
         2) Распознавание полки
         3) Посадка на полку
         4) Тренировка полетов
         
-Код: https://github.com/lazarevaak/Blindgarden_NTO/blob/main/blindgarden_day1.py
 
-#### День № 2 (29.03.22)
+#### [День № 2](https://github.com/lazarevaak/Blindgarden_NTO/blob/main/blindgarden_day2.py) (29.03.22)
 
     (Работа над 1-ым заданием)
 
@@ -58,9 +57,7 @@
     6) Посадка в районе старта 
     7) Тренировка полетов
 
-Код: https://github.com/lazarevaak/Blindgarden_NTO/blob/main/blindgarden_day2.py
-
-#### День № 3 (30.03.22)
+#### [День № 3](https://github.com/lazarevaak/Blindgarden_NTO/blob/main/blindgarden_day3.py) (30.03.22)
 
     (Работа над 1-ым заданием)
 
@@ -79,9 +76,7 @@
     и ему требовался поворот для дальнейшего движения по линии, что в нашей первой 
     зачетной программе не предусматривалось.
 
-Код: https://github.com/lazarevaak/Blindgarden_NTO/blob/main/blindgarden_day3.py
-
-#### День № 4 (31.03.22)
+#### [День № 4](https://github.com/lazarevaak/Blindgarden_NTO/blob/main/blindgarden_day4.py) (31.03.22)
 
     (Работа над 2-ым заданием)
 
@@ -93,7 +88,6 @@
     4) Тренировка полетов
     5) Посадка в точке старта
 
-Код: https://github.com/lazarevaak/Blindgarden_NTO/blob/main/blindgarden_day4.py
 
 #### День № 5 (01.04.22)
 
@@ -120,9 +114,7 @@
     2) Создание сборочного чертежа
     3) Написание монтажной инструкции
 
-#### День № 3 (31.03.22)
+#### [День № 3](https://github.com/lazarevaak/Blindgarden_NTO/tree/main/Инженерное%20задание) (31.03.22)
 
     1) Написание инструкции по эксплуатации
     2) Видео-презентация модели в 3D с демонстрацией
-    
-https://github.com/lazarevaak/Blindgarden_NTO/tree/main/Инженерное%20задание
