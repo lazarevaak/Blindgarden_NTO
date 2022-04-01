@@ -174,6 +174,7 @@ class Task:
 
 		self.cross_cx = float('nan')
 		self.cross_cy = float('nan')
+		self.cross_yaw = float('nan')
 		self.cross_road = False
 
 		# коэффициент для ограничения скорости выравнивания перед посадкой
@@ -448,7 +449,7 @@ class Task:
 						print('returning to crossroad')
 						pose = self.flight.telemetry(frame_id = 'aruco_map')
 						self.flight.navigate(x = self.cross_cx, y = self.cross_cy, z = pose.z, \
-							speed = 0.2, yaw = float('nan'), yaw_rate = 0.0, frame_id='aruco_map')
+							speed = 0.2, yaw = self.cross_yaw, yaw_rate = 0.0, frame_id='aruco_map')
 
 						self.cross_road = True
 						self.line_choose = False
@@ -509,7 +510,8 @@ class Task:
 					pose = self.flight.telemetry(frame_id = 'aruco_map')
 					self.cross_cx = pose.x
 					self.cross_cy = pose.y
-					print(f'Cross road x={round(self.cross_cx, 2)}, y={round(self.cross_cy, 2)}')
+					self.cross_yaw = pose.yaw
+					print(f'Cross road x={round(self.cross_cx, 2)}, y={round(self.cross_cy, 2)}, yaw={round(self.cross_yaw, 4)}')
 
 
 				image_draw = cv2.circle(image_draw, (int(center), int(y_it + (height // 2) - 60)), 8, (127, 127, 127), -1)
@@ -684,7 +686,7 @@ LAND = True
 height_start = 0.45
 #height_start = 1.3
 # высота движения на поле
-height_line = 1.4
+height_line = 1.2
 height_aruco = 1.5
 height_lake = 0.5
 # высота при посадке
