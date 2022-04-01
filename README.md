@@ -93,7 +93,7 @@
     4) Тренировка полетов
     5) Посадка в точке старта
 
-Код:
+Код: https://github.com/lazarevaak/Blindgarden_NTO/blob/main/blindgarden_day4.py
 
 ### Инженерная часть:
 
