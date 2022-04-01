@@ -44,7 +44,7 @@
         3) Посадка на полку
         4) Тренировка полетов
         
-        Код: https://github.com/lazarevaak/Blindgarden_NTO/blob/main/blindgarden_day1.py
+Код: https://github.com/lazarevaak/Blindgarden_NTO/blob/main/blindgarden_day1.py
 
 #### День № 2 (29.03.22)
 
