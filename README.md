@@ -42,10 +42,10 @@
 
 #### [День № 1](https://github.com/lazarevaak/Blindgarden_NTO/blob/main/blindgarden_day1.py) (28.03.22)
 
-        1) Взлет
-        2) Распознавание полки
-        3) Посадка на полку
-        4) Тренировка полетов
+    1) Взлет
+    2) Распознавание полки
+    3) Посадка на полку
+    4) Тренировка полетов
         
 
 #### [День № 2](https://github.com/lazarevaak/Blindgarden_NTO/blob/main/blindgarden_day2.py) (29.03.22)
