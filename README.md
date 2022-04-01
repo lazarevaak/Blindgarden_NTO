@@ -58,7 +58,7 @@
     6) Посадка в районе старта 
     7) Тренировка полетов
 
-Код:
+Код: https://github.com/lazarevaak/Blindgarden_NTO/blob/main/blindgarden_day2.py
 
 #### День № 3 (30.03.22)
 
